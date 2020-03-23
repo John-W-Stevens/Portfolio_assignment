@@ -1,0 +1,203 @@
+/** {
+	outline: 1px dotted red;
+}
+*/
+body {
+	margin: 0px auto;
+	width: 900px;
+	min-height: 1000px;
+}
+
+.top {
+	background-color: #f6f6f6;
+	min-height: 70px;
+}
+
+.main_content {
+	background-color: #513d46;
+	min-height: 850px;
+	padding: 20px;
+	align-content: center;
+}
+
+.bottom {
+	min-height: 70px;
+	background-color: #f6f6f6;
+}
+
+.contact_info {
+	background-color: #f6f6f6;
+	margin: 5px 0px;
+	text-align: center;
+	font-size: 16px;
+}
+
+.box1 {
+	display: inline-block;
+	width: 370px;
+	min-height: 260px;
+	vertical-align: top;
+	border: 5px solid grey;
+}
+
+.box2 {
+	display: inline-block;
+	width: 460px;
+	min-height: 270px;
+	margin-left: 15px;
+	vertical-align: top;
+	background-color: #ebe3ea;
+}
+
+.box3 {
+	width: 860px;
+	min-height: 440px;
+	margin-top: 15px;
+}
+
+.content{
+	display: inline-block;
+	width: 270px;
+	min-height: 550px;
+	vertical-align: top;
+}
+
+.content_margin {
+	margin-right: 21px;
+}
+
+h1 {
+	display: inline-block;
+	width: 400px;
+	margin-left: 20px;
+	background-color: #f6f6f6;
+	font-size: 35px;
+	font-family: sans-serif;
+}
+
+h2 {
+	display: inline-block;
+	width: 400px;
+	margin-left: 40px;
+	background-color: #f6f6f6;
+	font-size: 20px;
+	font-family: sans-serif;
+	text-align: right;
+}
+
+#box2_header {
+	height: 35px;
+	margin: 0px 0px;
+	background-color: #93909c;
+	color: #fefeff;
+	padding: 10px 0px 0px 10px;
+	font-size: 20px;
+	font-family: sans-serif;
+
+}
+
+#box2_a {
+	padding: 0px 0px 10px 10px;
+	font-size: 15px;
+	color: black;
+	font-family: sans-serif;
+}
+
+p {
+	padding: 0px 10px;
+	font-size: 15px;
+	font-family: sans-serif;
+}
+
+
+.mc_header3 {
+	height: 30px;
+	margin: 0px 0px;
+	background-color: #93909c;
+	color: #fefeff;
+	padding: 10px 0px 0px 10px;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+.mc_img {
+	width: 270px;
+}
+
+.mc_paragraph {
+	background-color: #ebe3ea;
+	margin: -4px 0px;
+	padding: 5px 5px;
+	font-size: 13.5px;
+	width: 260px;
+	height: 145px;
+	font-family: sans-serif;
+}
+
+.mc_header4 {
+	height: 30px;
+	margin: 0px 0px;
+	background-color: #93909c;
+	color: #fefeff;
+	padding: 10px 0px 0px 10px;
+	font-size: 16px;
+	font-family: sans-serif;
+}
+
+.icons {
+	margin: 0px 0px;
+	height: 120px;
+	width: 270px;
+	background-color: #ebe3ea;
+}
+
+.me {
+	width: 370px;
+	border: 5px solid grey;
+}
+
+.icon {
+	height: 40px;
+	width: 40px;
+	margin-top: 10px;
+	margin-left: 8px;
+}
+
+.placeholder {
+	margin: 0px 0px;
+	height: 0px;
+}
+
+.mc_button {
+	width: 270px;
+	height: 50px;
+	background-color: #ebe3ea;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+button {
+	background-color: green;
+	border: 1px solid black;
+	border-radius: 10px;
+	color: white;
+	font-family: sans-serif;
+}
+
+.contact_icon {
+	margin-top: 5px;
+	height: 20px;
+	width: 20px;
+	vertical-align: middle;
+}
+
+#lead_icon {
+	margin-left: 270px;
+}
+
+.contact_link {
+	margin: 0px 5px;
+	vertical-align: middle;
+	font-family: sans-serif;
+}
